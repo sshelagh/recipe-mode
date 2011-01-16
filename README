@@ -1,0 +1,8 @@
+recipe-mode is a mode I wrote (not finished yet by any means) to explore fontification, file searching and text formatting in emacs.
+
+I had planned to do a lot more with it, but as it is it will let you create recipes in a folder do a file search on that folder for recipes names and ingredients, format the file with pretty fonts.
+
+Instructions for installation are in the file itself.
+
+
+Shelagh
